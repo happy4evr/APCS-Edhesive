@@ -14,7 +14,7 @@ class t01_lesson1_template{
 
      public static void main (String str[]) throws IOException {
 
-         System.out.println ("Welcome to AP Computer Science"); 
+         System.out.println ("Hello World"); 
 
      }
 
